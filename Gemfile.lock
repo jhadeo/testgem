@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    test_gem (0.1.0)
+    test_gem_udemyjhadeo (0.1.0)
 
 GEM
   remote: https://rubygems.org/
@@ -13,7 +13,7 @@ PLATFORMS
 
 DEPENDENCIES
   rake (~> 13.0)
-  test_gem!
+  test_gem_udemyjhadeo!
 
 BUNDLED WITH
    2.3.15
